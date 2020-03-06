@@ -15,6 +15,7 @@
     "ejs"
   ],
   "main": "./mustache.js",
+  "module": "./mustache.mjs",
   "bin": {
     "mustache": "./bin/mustache"
   },
